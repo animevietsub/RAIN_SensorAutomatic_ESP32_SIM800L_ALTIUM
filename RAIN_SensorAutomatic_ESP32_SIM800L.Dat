@@ -1,0 +1,27 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~RAIN_SensorAutomatic_ESP32_SIM800L.PrjPcb|ReportField=ProjectFullPath~E:\NEW_DATA\Project\RAIN_SensorAutomatic_ESP32_SIM800L\RAIN_SensorAutomatic_ESP32_SIM800L.PrjPcb|ReportField=Title~Bill of Materials For Project [RAIN_SensorAutomatic_ESP32_SIM800L.PrjPcb] (No PCB Document Selected)|ReportField=ReportTime~1:32:02 PM|ReportField=ReportDate~3/18/2022|ReportField=ReportDateTime~3/18/2022 1:32:02 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~58|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~3/18/2022|ReportField=CurrentTime~1:30:15 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\NEW_DATA\Project\RAIN_SensorAutomatic_ESP32_SIM800L\Sheet1.SchDoc|ReportField=DocumentName~Sheet1.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~3/18/2022|ReportField=Organization~|ReportField=ProjectName~RAIN_SensorAutomatic_ESP32_SIM800L.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~RAIN_SensorAutomatic_ESP32_SIM800L.PrjPcb|ReportField=DataSourceFullPath~E:\NEW_DATA\Project\RAIN_SensorAutomatic_ESP32_SIM800L\RAIN_SensorAutomatic_ESP32_SIM800L.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|220uF|Polarized capacitor|C1, C3, C4, C7, C9, C11, C13, C14, C15, C20|Cap-P-3.8/6.3|Cap-Pol-Dip|10
+2|104|Non-polar capacitor|C2, C5, C6, C8, C10, C16, C17, C21, C22|Cap-Non-300mil|Cap-Non-Dip|9
+3|103|Non-polar capacitor|C12|Cap-Non-300mil|Cap-Non-Dip|1
+4|105|Non-polar capacitor|C18|Cap-Non-300mil|Cap-Non-Dip|1
+5|470uF|Polarized capacitor|C19|Cap-P-3.8/6.3|Cap-Pol-Dip|1
+6|RAIN_SENSOR||CN1|Header 4P|Header 4|1
+7|LDR_SENSOR||CN2|Header 4P|Header 4|1
+8|12VDC||CN3|KF2/5.08|KF 2|1
+9|LIMIT L||CN4|Header 2P|Header 2|1
+10|LIMIT R||CN5|Header 2P|Header 2|1
+11|MOTOR||CN6|Header 2P|Header 2|1
+12|SS14|Diode SMD|D1, D2, D3, D4|SOD 106|Diode SMD|4
+13|2.00A||F1|Fuse-Dip1|Fuse Dip|1
+14|FOD817DSD|Single Optocoupler|IC1, IC4, IC5|FAIRCHILD_FOD817DSD|FOD817DSD|3
+15|SN74HC595D|8-Bit Shift Register With 3-State Output Register|IC2, IC3|SOIC127P600X175-16N|SN74HC595D|2
+16|74HC14D|Hex Schmitt-Trigger Inverter|IC6|SOIC127P600X175-14N|74HC14D|1
+17|47uH|Inductor|L1, L2|L-DIP-M-6.0|IND-DIP-1|2
+18|Module SIM800L||M1||SIM800L|1
+19|1K|Resistor 1/4W|R1, R2, R3, R7|Res1/4W300mil|Res 1/4W|4
+20|330R|Resistor 1/4W|R4, R5, R6|Res1/4W300mil|Res 1/4W|3
+21|4K7|Resistor 1/4W|R8|Res1/4W300mil|Res 1/4W|1
+22|SW|Switch button 4 pin|SW1, SW2, SW3, SW4|Button-Dip4/12x12|Button-4|4
+23|ST7775R_2.0||U1|LCD_176X220_MODULE|LCD_176x220_ST7775R|1
+24|ESP32-DEVKIT-V1|- Transceiver; 802.11 b/g/n _Wi-Fi, WiFi, WLAN_, Bluetooth® Smart Ready 4.x Dual Mode For Use With ESP-WROOM-32|U2|MODULE_ESP32-DEVKITC-32D|ESP32-DEVKIT-V1|1
+25|LM2596_MODULE||U3|LM2596_MODULE|LM2596_MODULE|1
+26|L298N_MODULE||U4||L298N|1
