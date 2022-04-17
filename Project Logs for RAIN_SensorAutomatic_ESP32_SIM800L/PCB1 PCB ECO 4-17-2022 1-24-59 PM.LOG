@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VSIM Pin=C1-2
+Added Pin To Net: NetName=GND Pin=DZ1-1
+Added Pin To Net: NetName=VSIM Pin=DZ1-2
+Added Pin To Net: NetName=SIM_TXD Pin=R7-1
+Added Pin To Net: NetName=NetM1_5 Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=SIM_TXD Pin=R8-2
+Added Member To Class: ClassName=Sheet1 Member=Component C1 106
+Added Member To Class: ClassName=Sheet1 Member=Component DZ1 5.1V
+Added Member To Class: ClassName=Sheet1 Member=Component R7 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R8 1K

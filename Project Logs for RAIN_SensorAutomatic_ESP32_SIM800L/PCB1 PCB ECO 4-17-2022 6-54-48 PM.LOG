@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=AO_RAIN Pin=U2-2
+Removed Pin From Net: NetName=AO_LDR Pin=U2-3
+Removed Pin From Net: NetName=MIN Pin=U2-20
+Removed Pin From Net: NetName=MIP Pin=U2-21
+Removed Pin From Net: NetName=MEN Pin=U2-22
+Removed Pin From Net: NetName=LR Pin=U2-25
+Removed Pin From Net: NetName=LL Pin=U2-26
+Added Pin To Net: NetName=AO_LDR Pin=U2-18
+Added Pin To Net: NetName=AO_RAIN Pin=U2-20
+Added Pin To Net: NetName=LR Pin=U2-21
+Added Pin To Net: NetName=LL Pin=U2-22
+Added Pin To Net: NetName=MEN Pin=U2-23
+Added Pin To Net: NetName=MIN Pin=U2-24
+Added Pin To Net: NetName=MIP Pin=U2-25

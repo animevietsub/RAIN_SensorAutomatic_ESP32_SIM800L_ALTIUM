@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=LCD_DB1 Pin=IC2-1
+Removed Pin From Net: NetName=LCD_DB2 Pin=IC2-2
+Removed Pin From Net: NetName=LCD_DB3 Pin=IC2-3
+Removed Pin From Net: NetName=LCD_DB5 Pin=IC2-5
+Removed Pin From Net: NetName=LCD_DB6 Pin=IC2-6
+Removed Pin From Net: NetName=LCD_DB7 Pin=IC2-7
+Removed Pin From Net: NetName=LCD_DB0 Pin=IC2-15
+Removed Pin From Net: NetName=LCD_RS Pin=IC3-1
+Removed Pin From Net: NetName=LCD_WR Pin=IC3-2
+Removed Pin From Net: NetName=LCD_RST Pin=IC3-4
+Removed Pin From Net: NetName=LCD_LED Pin=IC3-5
+Removed Pin From Net: NetName=LCD_CS Pin=IC3-15
+Added Pin To Net: NetName=LCD_DB6 Pin=IC2-1
+Added Pin To Net: NetName=LCD_DB0 Pin=IC2-2
+Added Pin To Net: NetName=LCD_DB5 Pin=IC2-3
+Added Pin To Net: NetName=LCD_DB3 Pin=IC2-5
+Added Pin To Net: NetName=LCD_DB2 Pin=IC2-6
+Added Pin To Net: NetName=LCD_DB1 Pin=IC2-7
+Added Pin To Net: NetName=LCD_DB7 Pin=IC2-15
+Added Pin To Net: NetName=LCD_LED Pin=IC3-1
+Added Pin To Net: NetName=LCD_RST Pin=IC3-2
+Added Pin To Net: NetName=LCD_WR Pin=IC3-4
+Added Pin To Net: NetName=LCD_RS Pin=IC3-5
+Added Pin To Net: NetName=LCD_CS Pin=IC3-7
+Change Net Name : Old Net Name=NetIC2_9 New Net Name=LCD_EXT

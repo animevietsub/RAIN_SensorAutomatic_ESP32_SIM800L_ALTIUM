@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=V_ESPU Pin=R10-2
+Added Pin To Net: NetName=NetC2_1 Pin=R10-2
+Change Net Name : Old Net Name=NetC2_1 New Net Name=BUCK
+Added Member To Class: ClassName=Sheet1 Member=Component C22 104
