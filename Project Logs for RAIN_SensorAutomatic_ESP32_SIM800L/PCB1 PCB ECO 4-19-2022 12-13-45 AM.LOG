@@ -1,0 +1,9 @@
+Change Component Comment : Designator=R17 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R21 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R22 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R23 Old Comment=10K New Comment=1K
+Added Member To Class: ClassName=Sheet1 Member=Component R17 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R21 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R22 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R23 1K
+Added Member To Class: ClassName=Sheet1 Member=Component U1 ST7775R_2.0
