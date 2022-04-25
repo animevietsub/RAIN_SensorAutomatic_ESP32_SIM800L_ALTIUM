@@ -1,0 +1,21 @@
+CAMtasticDXP Drill Report
+Serial Number:0000-00-00000
+Drill File: E:\NEW_DATA\Project\RAIN_SensorAutomatic_ESP32_SIM800L\cam.drl
+Format: 2.3
+Units: English (Inch)
+Step & Repeat Codes Used: NO
+
+
+TOOL		SIZE		COUNT
+====		======		=====
+
+ 1 		0.0300		2
+ 2 		0.0310		40
+ 3 		0.0315		4
+ 4 		0.0320		14
+ 5 		0.0340		32
+ 6 		0.0394		18
+ 7 		0.0409		30
+ 8 		0.0472		15
+ 9 		0.0787		2
+ 10 		0.1181		10

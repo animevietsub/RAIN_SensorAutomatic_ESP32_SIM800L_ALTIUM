@@ -1,0 +1,35 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~RAIN_SensorAutomatic_ESP32_SIM800L.PrjPcb|ReportField=ProjectFullPath~E:\NEW_DATA\Project\RAIN_SensorAutomatic_ESP32_SIM800L\RAIN_SensorAutomatic_ESP32_SIM800L.PrjPcb|ReportField=Title~Bill of Materials For PCB Document [PCB1.PcbDoc]|ReportField=ReportTime~2:06:40 PM|ReportField=ReportDate~4/20/2022|ReportField=ReportDateTime~4/20/2022 2:06:40 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~81|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=DataSourceFileName~PCB1.PcbDoc|ReportField=DataSourceFullPath~E:\NEW_DATA\Project\RAIN_SensorAutomatic_ESP32_SIM800L\PCB1.PcbDoc|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|Plated Hole|Single Terminal Socket|B1, B2, B3, B4|MTG300_600|PLATED_HOLE3.0_PAD6.0|4
+2|106|Non-polar capacitor|C1, C3, C16, C23, C25|CAP-SMD-0805|Cap-Non-SMD|5
+3|104|Non-polar capacitor|C2, C4, C6, C9, C10, C15|Cap-Non-150mil|Cap-Non-Dip|6
+4|220uF|Polarized capacitor|C5, C7, C8, C14|Cap-P-2.5/5|Cap-Pol-Dip|4
+5|470uF|Polarized capacitor|C11, C12, C13|Cap-P-3.8/6.3|Cap-Pol-Dip|3
+6|104|Non-polar capacitor|C17, C18, C19, C20, C21, C22, C24, C26|CAP-SMD-0805|Cap-Non-SMD, Cap-Non-Dip|8
+7|RAIN||CN1|Header 4P|Header 4|1
+8|LDR||CN2|Header 4P|Header 4|1
+9|DC INPUT||CN3|KF2/5.08|KF 2|1
+10|LL||CN4|Header 2P|Header 2|1
+11|LR||CN5|Header 2P|Header 2|1
+12|MOTOR||CN6|KF2/5.08|KF 2|1
+13|SS14|Diode SMD|D1, D2, D3|SOD 106|Diode SMD|3
+14|5.1V|Diode Zenner|DZ1|Diode-Zenner-200mil|Diode Zenner|1
+15|2.00A||F1|Fuse-Dip1|Fuse Dip|1
+16|FOD817DSD|Single Optocoupler|IC1, IC4, IC5|DIP4|FOD817DSD|3
+17|SN74HC595D|8-Bit Shift Register With 3-State Output Register|IC2, IC3|SOIC127P600X175-16N|SN74HC595D|2
+18|74HC14D|Hex Schmitt-Trigger Inverter|IC6|SOIC127P600X175-14N|74HC14D|1
+19|470uH|Inductor|L1, L2|L-DIP-M-5.3|IND-DIP-1|2
+20|POWER||LED1|LED-0805|LED_SMD|1
+21|ESP-5.0V||LED2|LED-0805|LED_SMD|1
+22|ESP-3.3V||LED3|LED-0805|LED_SMD|1
+23|SIM800L||M1|SIM800L_M|SIM800L|1
+24|L298N||M2|L298N_MODULE|L298N|1
+25|1K|Resistor 1/4W|R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R17, R21, R22, R23|RES-SMD-0805|Res 1/4W|15
+26|0R|Resistor SMD|R13, R14, R15|RES-SMD-0805|Res SMD|3
+27|0R|Resistor SMD, Resistor 1/4W|R16, R27|RES-SMD-1206|Res SMD, Res 1/4W|2
+28|UP|Switch button 4 pin|SW1|Button-Dip4/6x6|Button-4|1
+29|DOWN|Switch button 4 pin|SW2|Button-Dip4/6x6|Button-4|1
+30|LEFT|Switch button 4 pin|SW3|Button-Dip4/6x6|Button-4|1
+31|RIGHT|Switch button 4 pin|SW4|Button-Dip4/6x6|Button-4|1
+32|ST7775R_2.0||U1|LCD_176X220_MODULE|LCD_176x220_ST7775R|1
+33|ESP32-DEVKIT-V1|- Transceiver; 802.11 b/g/n _Wi-Fi, WiFi, WLAN_, Bluetooth® Smart Ready 4.x Dual Mode For Use With ESP-WROOM-32|U2|MODULE_ESP32-DEVKITC-32D|ESP32-DEVKIT-V1|1
+34|LM2596_MODULE||U3|LM2596_MODULE|LM2596_MODULE|1
